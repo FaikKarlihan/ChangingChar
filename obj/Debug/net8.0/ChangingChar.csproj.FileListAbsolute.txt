@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Documents\Sites\ChangingChar\bin\Debug\net8.0\ChangingChar.exe
+C:\Users\Toshiba\Documents\Sites\ChangingChar\bin\Debug\net8.0\ChangingChar.deps.json
+C:\Users\Toshiba\Documents\Sites\ChangingChar\bin\Debug\net8.0\ChangingChar.runtimeconfig.json
+C:\Users\Toshiba\Documents\Sites\ChangingChar\bin\Debug\net8.0\ChangingChar.dll
+C:\Users\Toshiba\Documents\Sites\ChangingChar\bin\Debug\net8.0\ChangingChar.pdb
+C:\Users\Toshiba\Documents\Sites\ChangingChar\obj\Debug\net8.0\ChangingChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Documents\Sites\ChangingChar\obj\Debug\net8.0\ChangingChar.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Documents\Sites\ChangingChar\obj\Debug\net8.0\ChangingChar.AssemblyInfo.cs
+C:\Users\Toshiba\Documents\Sites\ChangingChar\obj\Debug\net8.0\ChangingChar.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\Sites\ChangingChar\obj\Debug\net8.0\ChangingChar.dll
+C:\Users\Toshiba\Documents\Sites\ChangingChar\obj\Debug\net8.0\refint\ChangingChar.dll
+C:\Users\Toshiba\Documents\Sites\ChangingChar\obj\Debug\net8.0\ChangingChar.pdb
+C:\Users\Toshiba\Documents\Sites\ChangingChar\obj\Debug\net8.0\ChangingChar.genruntimeconfig.cache
+C:\Users\Toshiba\Documents\Sites\ChangingChar\obj\Debug\net8.0\ref\ChangingChar.dll
